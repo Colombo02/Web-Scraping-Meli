@@ -1,0 +1,139 @@
+Marca,Modelo,Cuerpo,Año,Puertas,Airbags,Adulto,Niños,LATIN NCA
+Chevrolet, tracker,SUV,2020,5.0,6 ,91.0,92.0,5.0
+Citroen, c3 ,SUV,2023,5.0,2,31.0,12.0,0.0
+Byd, f0,HB,2016,5.0,0,10.0,26.0,0.0
+Fiat,Strada 700,PICK UP 4,2022,4.0,4,41.0,53.0,1.0
+Fiat,Strada 700,PICK UP 2,2022,2.0,2,47.0,22.0,1.0
+Fiat,Argo / cronos ,HB ,2021,5.0,2,24.0,10.0,0.0
+Ford ,Ka,HB ,2020,5.0,2,34.0,9.0,0.0
+Gwm ,Wingle 5,PICK UP 4,2021,4.0,2,9.0,0.0,0.0
+Honda ,Wr-v,HB,2022,5.0,2,41.0,41.0,1.0
+Hyundai ,Hb20 ,HB ,2023,5.0,6,68.0,75.0,3.0
+Hyundai ,Tucson ,SUV,2022,5.0,6,82.0,72.0,3.0
+Hyundai ,Tucson ,SUV,2022,5.0,2,50.0,5.0,0.0
+Hyundai ,Accent ,SEDAN ,2021,5.0,1,9.0,13.0,0.0
+Hyundai ,Accent ,SEDAN ,2021,4.0,1,9.0,13.0,0.0
+Hyundai ,Tucson ,SUV,2021,5.0,2,51.0,4.0,0.0
+Hyundai ,Accent ,HB ,2020,5.0,2,19.0,10.0,0.0
+Jac ,E-js1,HB ,2022,5.0,2,0.0,6.0,0.0
+Jac ,E10x ,HB ,2022,5.0,2,0.0,6.0,0.0
+Jac ,E-s1,HB ,2022,5.0,2,0.0,6.0,0.0
+Jac ,S1,HB ,2022,5.0,2,0.0,6.0,0.0
+Jeep ,Renegade ,SUV,2023,5.0,2,49.0,67.0,1.0
+Kia ,Sportage ,SUV,2022,5.0,6,82.0,72.0,3.0
+Kia ,Sportage ,SUV,2022,5.0,6,82.0,72.0,3.0
+Kia ,Sportage ,SUV,2021,5.0,2,48.0,15.0,0.0
+Kia ,Picanto ,HB ,2020,5.0,1,0.0,29.0,0.0
+Kia ,Morning ,HB ,2020,5.0,1,0.0,29.0,0.0
+Mitshubishi,Outlander,SUV ,2022,5.0,7,90.0,91.0,5.0
+Nissan ,Qashqai ,SUV,2022,5.0,6,94.0,92.0,5.0
+Peugeot,208,HB ,2021,5.0,4,52.0,55.0,2.0
+Ram ,Strada 700,PICK UP 4 ,2022,4.0,4,41.0,53.0,1.0
+Ram ,Strada 700,PICK UP 2 ,2022,2.0,2,47.0,22.0,1.0
+Renault ,Duster ,SUV,2021,5.0,2,29.0,23.0,0.0
+Renault ,Duster ,SUV,2021,5.0,2,29.0,23.0,0.0
+Suzuki ,Baleno ,HB ,2021,5.0,2,20.0,17.0,0.0
+Suzuki ,Swift ,HB,2021,5.0,2,16.0,0.0,0.0
+Suzuki ,Swift ,HB,2021,5.0,2,16.0,0.0,0.0
+Toyota,Corolla,SEDAN ,2022,4.0,7,83.0,92.0,5.0
+Toyota,Corolla,SEDAN ,2022,4.0,7,83.0,92.0,5.0
+Toyota,Corolla,SEDAN ,2022,4.0,7,83.0,92.0,5.0
+Toyota,Corolla,SEDAN ,2022,4.0,7,83.0,92.0,5.0
+Toyota,Yaris ,HB ,2021,5.0,2,41.0,64.0,1.0
+Toyota,Yaris ,HB ,2021,5.0,2,41.0,64.0,1.0
+Volkswagen,Taigun ,SUV,2023,5.0,6,92.0,92.0,5.0
+Volkswagen,Virtus ,SEDAN ,2022,4.0,6,92.0,92.0,5.0
+Volkswagen,Virtus ,SEDAN ,2022,4.0,6,92.0,92.0,5.0
+Volkswagen,Polo ,HB ,2022,5.0,4,73.0,71.0,3.0
+Volkswagen,Polo track ,HB ,2022,5.0,4,73.0,71.0,3.0
+Volkswagen,Nivus ,SUV ,2021,5.0,6,92.0,92.0,5.0
+Volkswagen,Taos,SUV,2021,5.0,6,90.0,90.0,5.0
+Volkswagen,Taos,SUV,2021,5.0,6,90.0,90.0,5.0
+Chery ,Tiggo 3,SUV,2019,5.0,2,10.0,21.0,0.0
+Chevrolet ,Aveo ,SEDAN ,2019,4.0,2,70.0,76.0,3.0
+Chevrolet ,Onix,HB ,2019,5.0,6,85.0,90.0,5.0
+Chevrolet ,Onix plus ,SEDAN ,2019,4.0,6,83.0,86.0,5.0
+Chevrolet ,Cruze ,SEDAN ,2019,4.0,6,89.0,81.0,5.0
+Chevrolet ,Aveo ,SEDAN ,2018,4.0,2,70.0,76.0,3.0
+Chevrolet ,Cruze ,SEDAN ,2018,4.0,4,89.0,79.0,4.0
+Chevrolet ,Onix,HB ,2018,4.0,2,59.0,67.0,3.0
+Chevrolet ,Prisma ,HB ,2018,4.0,2,59.0,67.0,3.0
+Chevrolet ,Aveo ,SEDAN ,2017,4.0,2,51.0,61.0,1.0
+Chevrolet ,N300,MPV,2017,5.0,0,56.0,27.0,0.0
+Chevrolet ,Onix,HB ,2017,5.0,2,0.0,56.0,1.0
+Chevrolet ,Spark gt ,HB ,2016,5.0,0,0.0,18.0,0.0
+Chevrolet ,Beat ,HB ,2016,5.0,0,0.0,18.0,0.0
+Chevrolet ,Sail ,SEDAN ,2016,4.0,0,0.0,47.0,1.0
+Chevrolet ,Sail ,SEDAN ,2016,4.0,0,0.0,47.0,1.0
+Fiat,Argo ,SEDAN,2019,4.0,2,72.0,37.0,2.0
+Fiat ,Cronos ,SEDAN ,2019,4.0,2,72.0,37.0,2.0
+Fiat,Argo ,SEDAN,2019,4.0,2,72.0,37.0,2.0
+Fiat ,Cronos ,SEDAN ,2019,4.0,2,72.0,37.0,2.0
+Fiat ,500x,SUV,2018,4.0,6,96.0,88.0,5.0
+Fiat ,Toro ,PICK UP 4,2018,4.0,2,86.0,75.0,4.0
+Fiat ,Mobi ,HB ,2017,5.0,2,56.0,55.0,1.0
+Fiat ,New palio ,HB ,2016,5.0,2,53.0,64.0,2.0
+Fiat ,New palio ,HB ,2016,5.0,2,53.0,64.0,2.0
+Ford ,Ranger ,PICK UP 4,2019,4.0,3,90.0,81.0,4.0
+Ford ,Figo ,SEDAN,2019,4.0,4,73.0,72.0,4.0
+Ford ,Ka ,SEDANM,2018,5.0,2,67.0,72.0,3.0
+Ford ,Ka ,HB ,2017,5.0,2,0.0,68.0,1.0
+Ford ,Figo ,HB ,2017,5.0,2,0.0,68.0,1.0
+Ford ,Raner ,PICK UP 4 ,2016,4.0,3,90.0,82.0,3.0
+Hyundai ,Hb20 ,HB ,2019,5.0,2,64.0,54.0,2.0
+Hyundai ,Accent ,SEDAN ,2018,4.0,0,0.0,33.0,0.0
+Kia ,Rio ,SEDAN ,2017,4.0,1,69.0,37.0,2.0
+Kia ,Rio ,SEDAN ,2017,5.0,0,0.0,33.0,0.0
+Kia ,Picanto ,HB ,2016,4.0,0,0.0,27.0,0.0
+Kia ,Morning ,HB ,2016,4.0,0,0.0,27.0,0.0
+Mazda ,2,HB,2018,5.0,2,84.0,67.0,2.0
+Mitshubishi,Eclipse cross ,SUV,2019,5.0,3,91.0,61.0,3.0
+Mitshubishi,L200,PICK UP 4,2019,4.0,0,0.0,41.0,1.0
+Mitshubishi,L200,PICK UP 4,2019,4.0,2,0.0,41.0,1.0
+Nissan ,Frontier ,PICK UP 4,2019,4.0,2,83.0,74.0,4.0
+Nissan ,Navara ,PICK UP 4,2019,4.0,2,83.0,74.0,4.0
+Nissan ,Np300,PICK UP 4,2019,4.0,2,83.0,74.0,4.0
+Nissan ,March ,HB,2018,5.0,2,59.0,43.0,1.0
+Nissan ,March ,HB,2018,5.0,2,59.0,43.0,1.0
+Nissan ,Kicks ,SUV,2017,5.0,2,75.0,76.0,4.0
+Nissan ,Murano ,SUV,2017,5.0,7,84.0,70.0,4.0
+Nissan ,March ,HB,2016,4.0,2,47.0,22.0,2.0
+Nissan ,March ,HB,2016,4.0,2,47.0,22.0,2.0
+Nissan ,Versa,SEDAN ,2016,4.0,2,51.0,37.0,2.0
+Nissan ,Versa,SEDAN ,2016,4.0,2,51.0,37.0,2.0
+Nissan ,Murano ,SUV ,2016,5.0,7,67.0,72.0,3.0
+Peugeot,301,SEDAN ,2019,4.0,4,69.0,70.0,3.0
+Peugeot,208,HB ,2016,4.0,2,53.0,63.0,2.0
+Renault ,Sandero ,HB ,2019,4.0,4,67.0,79.0,3.0
+Renault ,Logan ,SEDAN ,2019,4.0,4,67.0,79.0,3.0
+Renault ,Stepway,SUV ,2019,4.0,4,67.0,79.0,3.0
+Renault ,Duster ,SUV ,2019,4.0,2,77.0,58.0,3.0
+Renault ,Duster ,SUV,2019,4.0,2,77.0,58.0,3.0
+Renault ,Duster ,SUV,2019,4.0,2,77.0,58.0,3.0
+Renault ,Kangoo ,MPV,2019,4.0,2,22.0,38.0,3.0
+Renault ,Sandero ,HB ,2018,4.0,2,53.0,59.0,2.0
+Renault ,Logan ,SEDAN ,2018,4.0,2,53.0,59.0,2.0
+Renault ,Kwid ,HB ,2017,5.0,4,23.0,34.0,3.0
+Renault ,Captur ,SUV,2017,5.0,4,89.0,67.0,3.0
+Seat ,Tarraco ,SUV ,2019,5.0,7,95.0,87.0,5.0
+Seat ,Arona,SUV,2018,5.0,6,88.0,43.0,5.0
+Seat ,Ibiza ,HB ,2018,5.0,6,90.0,85.0,5.0
+Seat ,Ateca,SUV,2017,5.0,7,96.0,87.0,5.0
+Toyota ,Corolla,SEDAN,2019,4.0,7,87.0,91.0,5.0
+Toyota ,Hilux ,PICK UP 4,2019,4.0,7,93.0,90.0,5.0
+Toyota ,Hilux sw4,SUV,2019,5.0,7,93.0,90.0,5.0
+Toyota ,Etios,HB ,2019,5.0,2,75.0,82.0,4.0
+Toyota,Rav 4,SUV,2019,5.0,7,87.0,88.0,5.0
+Toyota,Yaris ,SEDAN ,2019,4.0,2,75.0,78.0,3.0
+Toyota ,Corolla ,SEDAN ,2017,4.0,7,78.0,92.0,5.0
+Toyota ,Corolla ,SEDAN ,2017,4.0,7,78.0,92.0,5.0
+Volkswagen ,Tiguan ,SUV ,2019,5.0,6,94.0,90.0,5.0
+Volkswagen ,Jetta ,SEDAN ,2019,4.0,6,89.0,92.0,5.0
+Volkswagen ,T- cross,SUV,2019,5.0,6,93.0,87.0,5.0
+Volkswagen ,Sura ,MPV ,2019,4.0,2,62.0,55.0,4.0
+Volkswagen ,Fox ,MPV ,2019,4.0,2,62.0,55.0,4.0
+Volkswagen ,Virtus ,SEDAN ,2018,4.0,4,96.0,88.0,5.0
+Volkswagen ,Polo ,HB ,2017,5.0,4,95.0,88.0,5.0
+Volkswagen ,Golf vii,HB ,2017,5.0,5,98.0,89.0,5.0
+Volkswagen ,Golf vii,HB ,2017,5.0,5,98.0,89.0,5.0
+Volkswagen ,Golf vii,HB ,2017,5.0,5,98.0,89.0,5.0
